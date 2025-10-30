@@ -112,7 +112,7 @@ Konec hry nastane pokud se had sám do sebe zakousne nebo pokud se zakousne do o
 
 Program je napsaný v jazyce C. Základ programu je rozdělen do několika modulů.
 
-![diagram](uploads/diagram.png)
+![diagram](diagram.png)
 
 ### Start_semestralka
 
